@@ -128,7 +128,7 @@ module.exports = {
         theme_color: '#0a0a23',
         background_color: '#fff',
         /* eslint-enable camelcase */
-        display: 'minimal-ui',
+        display: 'standalone',
         icon: 'src/assets/images/square_puck.png'
       }
     },
